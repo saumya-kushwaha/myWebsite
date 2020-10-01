@@ -1,2 +1,2 @@
-# myWebsite
-it is a project for my class
+# MyWebsite
+This is a project for my class.
